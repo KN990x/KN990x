@@ -1,6 +1,4 @@
-<h1><img src="logo.png" alt="KN990x" width="26" height="26" /> KN990x &nbsp;&nbsp;·&nbsp;&nbsp;<small>Select language → <strong><a href="#english">English</a></strong> | <strong><a href="#espanol">Español</a></strong></small></h1>
-
----
+<h1><img src="logo.png" alt="KN990x" width="26" height="26" /> KN990x &nbsp;&nbsp;·&nbsp;&nbsp;<small><strong><a href="#english">English</a></strong> | <strong><a href="#espanol">Español</a></strong></small></h1>
 
 <a id="english"></a>
 
@@ -79,6 +77,3 @@ Solo hago estas cosas por hobby; la tecnología y el mundo del desarrollo me ilu
 
 
 [↑ Volver a la selección de idioma](#kn990x)
-
----
-
