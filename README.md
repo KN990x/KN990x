@@ -1,6 +1,4 @@
-<h1><img src="logo.png" alt="KN990x" width="32" height="32" /> KN990x</h1>
-
-**[English](#english)** · **[Español](#espanol)**
+<h1><img src="logo.png" alt="KN990x" width="26" height="26" /> KN990x &nbsp;&nbsp;·&nbsp;&nbsp;<small>Select language → <strong><a href="#english">English</a></strong> | <strong><a href="#espanol">Español</a></strong></small></h1>
 
 ---
 
