@@ -1,8 +1,12 @@
 # KN990x
 
+![KN990x](logo.png)
+
 **[English](#english)** · **[Español](#espanol)**
 
 ---
+
+<a id="english"></a>
 
 Hi! I only do this as a hobby—technology and the world of development genuinely excite me. On **[my blog](https://kn990x.dev)** I write about what I’m building and tinkering with, and I also like to talk about investing and the wider investment world.
 
@@ -41,6 +45,8 @@ Hi! I only do this as a hobby—technology and the world of development genuinel
 [↑ Back to language selection](#kn990x)
 
 ---
+
+<a id="espanol"></a>
 
 Solo hago estas cosas por hobby; la tecnología y el mundo del desarrollo me ilusionan de verdad. En **[mi blog](https://kn990x.dev)** escribo sobre lo que hago y los experimentos que pruebo, y también me gusta hablar del mundo de la inversión.
 
