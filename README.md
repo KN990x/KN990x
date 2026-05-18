@@ -1,6 +1,4 @@
-# KN990x
-
-![KN990x](logo.png)
+<h1><img src="logo.png" alt="KN990x" width="32" height="32" /> KN990x</h1>
 
 **[English](#english)** · **[Español](#espanol)**
 
