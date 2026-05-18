@@ -23,7 +23,7 @@ On **[my blog](https://kn990x.dev)** I write about what I’m working on, experi
 
 #### Websites
 
-→ **[tercio14.com](https://tercio14.com)** — Community project for Guardia Civil exam candidates
+- **[tercio14.com](https://tercio14.com)** — Community project for Guardia Civil exam candidates
 
 #### Repositories
 
@@ -57,7 +57,7 @@ En **[mi blog](https://kn990x.dev)** escribo sobre lo que hago, los experimentos
 
 #### Sitios web
 
-→ **[tercio14.com](https://tercio14.com)** — Proyecto para la comunidad de opositores a la Guardia Civil
+- **[tercio14.com](https://tercio14.com)** — Proyecto para la comunidad de opositores a la Guardia Civil
 
 #### Repositorios
 
