@@ -1,69 +1,33 @@
-<a id="kn990x"></a>
-<h1><small><strong><a href="#english">English</a></strong> | <strong><a href="#espanol">Español</a></strong></small></h1>
-
-<br>
-<a id="english"></a>
-
-### About me
-
-I’m into everything related to the tech world and I enjoy spending time building things. Everything I do here is a hobby: it keeps me entertained and I like learning—not to make money or for commercial purposes. If you still like what I do and want to support me, you can buy me a coffee on **[Buy Me a Coffee](https://buymeacoffee.com/kn990x)**. And if you want to chat, suggest something, or collaborate on a project, you can find me on the social media listed below. I’ll be happy to get back to you.
-
-On **[my blog](https://kn990x.dev)** I write about what I’m working on, experiments I try, and I also like to talk about investing and the wider investment world.
-
-<br>
-
-### Social media
-
-- **X (Twitter):** [@KN990x](https://x.com/KN990x)
-- **YouTube:** [@KN990x](https://www.youtube.com/@KN990x)
-
-<br>
+<div align="center">
+  <h1>KN990x</h1>
+</div>
 
 ### Projects
 
-#### Websites
+*   **[EasyPages](https://github.com/KN990x/EasyPages)** — A Cloudflare Pages Manager.
+*   **[PullPilot](https://github.com/KN990x/PullPilot)** — A Docker Homelab Updater.
+*   **[vuzon](https://github.com/KN990x/vuzon)** — A UI for Cloudflare Email Routing.
+*   **[tercio14.com](https://tercio14.com)** — A community project for Guardia Civil exam candidates.
 
-- **[tercio14.com](https://tercio14.com)** — Community project for Guardia Civil exam candidates
-
-#### Repositories
-
-- **[EasyPages](https://github.com/KN990x/EasyPages)** — Cloudflare Pages Manager
-- **[PullPilot](https://github.com/KN990x/PullPilot)** — Docker Homelab Updater
-- **[vuzon](https://github.com/KN990x/vuzon)** — UI for Cloudflare Email Routing
-
-<br><br> 
-[↑ Back to language selection](#kn990x)
+#### Upcoming...
+*   **[Cailla100.app](https://cailla100.app)** — Simplified investment tax returns.
+*   **[Genealo.app](https://genealo.app)** — Easily build and visualize family trees.
 
 ---
-<br>
-<a id="espanol"></a>
 
-### Sobre mi
+<div align="center">
+  <h3>Let's Connect</h3>
 
-Me gusta todo lo relacionado con el mundo tech y pasar el rato creando cosas. Todo lo que hago aquí es por hobby, porque me entretiene y me gusta aprender, no con intención de sacar beneficio económico ni comercial. Si aun así te mola lo que hago y te apetece apoyarme, puedes invitarme a un café en **[Buy Me a Coffee](https://buymeacoffee.com/kn990x)**. Y si quieres hablar, proponer algo o colaborar en algún proyecto, puedes encontrarme en las redes sociales que dejo más abajo, estaré encantado de responder.
-
-En **[mi blog](https://kn990x.dev)** escribo sobre lo que hago, los experimentos que pruebo y también me gusta hablar del mundo de la inversión.
-
-<br>
-
-### Redes sociales
-
-- **X (Twitter):** [@KN990x](https://x.com/KN990x)
-- **YouTube:** [@KN990x](https://www.youtube.com/@KN990x)
-
-<br>
-
-### Proyectos
-
-#### Sitios web
-
-- **[tercio14.com](https://tercio14.com)** — Proyecto para la comunidad de opositores a la Guardia Civil
-
-#### Repositorios
-
-- **[EasyPages](https://github.com/KN990x/EasyPages)** — Asistente de Cloudflare Pages
-- **[PullPilot](https://github.com/KN990x/PullPilot)** — Actualizador de Docker para Homelab
-- **[vuzon](https://github.com/KN990x/vuzon)** — UI para Cloudflare Email Routing
-
-<br><br> 
-[↑ Volver a la selección de idioma](#kn990x)
+  <a href="https://kn990x.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNy45M2MtMy45NS0uNDktNy0zLjg1LTctNy45MyAwLS42Mi4wOC0xLjIxLjIxLTEuNzlMOSAxNXYxYzAgMS4xLjkgMiAyIDJ2MS45M3ptNi45LTIuNTNjLS4yNi0uODEtMS0xLjQtMS45LTEuNGgtMXYtM2MwLS41NS0uNDUtMS0xLTFoLTZ2LTJoMmMuNTUgMCAxLS40NSAxLTFWN2gyYzEuMSAwIDItLjkgMi0ydi0uNDFjMi45MyAxLjE5IDUgNC4wNiA1IDcuNDEgMCAyLjA4LS44IDMuOTctMi4xIDUuNHoiLz48L3N2Zz4%3D" alt="Website" />
+  </a>
+  <a href="https://x.com/KN990x" target="_blank">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="https://www.youtube.com/@KN990x" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://buymeacoffee.com/kn990x" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee" />
+  </a>
+</div>
