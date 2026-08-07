@@ -1,0 +1,47 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="softShadow" x="0" y="0" width="1024" height="1024" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000000" flood-opacity="0.18"/>
+    </filter>
+
+    <clipPath id="frontClip">
+      <rect x="342" y="267" width="420" height="570" rx="88" ry="88"/>
+    </clipPath>
+  </defs>
+
+  <rect x="64" y="64" width="896" height="896" rx="210" fill="#FF7A18"/>
+
+  <g filter="url(#softShadow)">
+    <rect x="262" y="187" width="420" height="570" rx="82" ry="82"
+      fill="#FFFFFF" opacity="0.22"
+      stroke="#FFFFFF" stroke-opacity="0.18" stroke-width="8"/>
+
+    <rect x="302" y="227" width="420" height="570" rx="85" ry="85"
+      fill="#FFFFFF" opacity="0.36"
+      stroke="#FFFFFF" stroke-opacity="0.20" stroke-width="8"/>
+
+    <rect x="342" y="267" width="420" height="570" rx="88" ry="88"
+      fill="#FFFFFF" opacity="0.96"/>
+
+    <g clip-path="url(#frontClip)">
+      <path
+        d="M690 285
+           H762
+           V357
+           C735 352 715 333 690 285
+           Z"
+        fill="#FFFFFF"
+        opacity="0.42"
+      />
+      <path
+        d="M690 285
+           C715 333 735 352 762 357"
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-opacity="0.20"
+        stroke-width="10"
+        stroke-linecap="round"
+      />
+    </g>
+  </g>
+</svg>

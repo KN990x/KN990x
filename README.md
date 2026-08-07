@@ -17,72 +17,73 @@
   </picture>
 </div>
 
-## Projects
+<h2 align="center">Projects</h2>
 
+<div align="center">
 <table>
   <tr>
-    <td width="200" valign="top">
+    <td align="center" width="440" valign="top">
+      <img src="assets/logos/pullpilot.png" width="64" height="64" alt="PullPilot"><br>
       <b><a href="https://pullpilot.app">PullPilot</a></b><br>
-      <sub><a href="https://github.com/KN990x/PullPilot">source</a></sub>
-    </td>
-    <td valign="top">
-      Self-hosted Docker Compose updater with scheduling and an automatic rollback when a deploy fails.<br>
+      <sub><a href="https://pullpilot.app">pullpilot.app</a> · <a href="https://github.com/KN990x/PullPilot">source</a></sub><br><br>
+      Self-hosted Docker Compose updater with scheduling and an automatic rollback when a deploy fails.<br><br>
       <a href="https://github.com/KN990x/PullPilot/releases/latest"><img src="https://img.shields.io/github/v/release/KN990x/PullPilot?style=flat-square&label=release&labelColor=0a0a0a&color=2a2a2a" alt="Latest release"></a>
       <a href="https://github.com/KN990x/PullPilot/stargazers"><img src="https://img.shields.io/github/stars/KN990x/PullPilot?style=flat-square&label=stars&labelColor=0a0a0a&color=2a2a2a" alt="Stars"></a>
       <img src="https://img.shields.io/github/license/KN990x/PullPilot?style=flat-square&label=license&labelColor=0a0a0a&color=2a2a2a" alt="License">
     </td>
-  </tr>
-  <tr>
-    <td width="200" valign="top">
+    <td align="center" width="440" valign="top">
+      <img src="assets/logos/vuzon.svg" width="64" height="64" alt="vuzon"><br>
       <b><a href="https://vuzon.cc">vuzon</a></b><br>
-      <sub><a href="https://github.com/KN990x/vuzon">source</a></sub>
-    </td>
-    <td valign="top">
-      Self-hosted web panel to manage Cloudflare Email Routing aliases, rules and destinations from your homelab.<br>
+      <sub><a href="https://vuzon.cc">vuzon.cc</a> · <a href="https://github.com/KN990x/vuzon">source</a></sub><br><br>
+      Self-hosted web panel to manage Cloudflare Email Routing aliases, rules and destinations from your homelab.<br><br>
       <a href="https://github.com/KN990x/vuzon/releases/latest"><img src="https://img.shields.io/github/v/release/KN990x/vuzon?style=flat-square&label=release&labelColor=0a0a0a&color=2a2a2a" alt="Latest release"></a>
       <a href="https://github.com/KN990x/vuzon/stargazers"><img src="https://img.shields.io/github/stars/KN990x/vuzon?style=flat-square&label=stars&labelColor=0a0a0a&color=2a2a2a" alt="Stars"></a>
       <img src="https://img.shields.io/github/license/KN990x/vuzon?style=flat-square&label=license&labelColor=0a0a0a&color=2a2a2a" alt="License">
     </td>
   </tr>
   <tr>
-    <td width="200" valign="top">
+    <td align="center" width="440" valign="top">
+      <img src="assets/logos/easypages.svg" width="64" height="64" alt="EasyPages"><br>
       <b><a href="https://github.com/KN990x/EasyPages">EasyPages</a></b><br>
-      <sub><a href="https://github.com/KN990x/EasyPages">source</a></sub>
-    </td>
-    <td valign="top">
-      A manager for Cloudflare Pages projects, deployments and settings.<br>
+      <sub><a href="https://github.com/KN990x/EasyPages">source</a></sub><br><br>
+      A manager for Cloudflare Pages projects, deployments and settings.<br><br>
       <a href="https://github.com/KN990x/EasyPages/releases/latest"><img src="https://img.shields.io/github/v/release/KN990x/EasyPages?style=flat-square&label=release&labelColor=0a0a0a&color=2a2a2a" alt="Latest release"></a>
       <a href="https://github.com/KN990x/EasyPages/stargazers"><img src="https://img.shields.io/github/stars/KN990x/EasyPages?style=flat-square&label=stars&labelColor=0a0a0a&color=2a2a2a" alt="Stars"></a>
       <img src="https://img.shields.io/github/license/KN990x/EasyPages?style=flat-square&label=license&labelColor=0a0a0a&color=2a2a2a" alt="License">
     </td>
-  </tr>
-  <tr>
-    <td width="200" valign="top">
+    <td align="center" width="440" valign="top">
+      <img src="assets/logos/tercio14.svg" width="64" height="64" alt="tercio14"><br>
       <b><a href="https://tercio14.com">tercio14</a></b><br>
-      <sub>closed source</sub>
-    </td>
-    <td valign="top">
-      A community project for Guardia Civil exam candidates.
+      <sub><a href="https://tercio14.com">tercio14.com</a> · closed source</sub><br><br>
+      A community project for Guardia Civil exam candidates.<br><br>
+      <img src="https://img.shields.io/badge/status-live-0a0a0a?style=flat-square&labelColor=0a0a0a&color=2a2a2a" alt="Live">
     </td>
   </tr>
 </table>
+</div>
 
-## In progress
+<h2 align="center">In progress</h2>
 
+<div align="center">
 <table>
   <tr>
-    <td width="200" valign="top"><b>Cailla100</b></td>
-    <td valign="top">Simplified investment tax returns. <sub><code>in progress</code></sub></td>
-  </tr>
-  <tr>
-    <td width="200" valign="top"><b>Genealo</b></td>
-    <td valign="top">Build and visualize family trees. <sub><code>in progress</code></sub></td>
+    <td align="center" width="440" valign="top">
+      <b>Cailla100</b><br><br>
+      Simplified investment tax returns.<br><br>
+      <img src="https://img.shields.io/badge/status-in%20progress-0a0a0a?style=flat-square&labelColor=0a0a0a&color=2a2a2a" alt="In progress">
+    </td>
+    <td align="center" width="440" valign="top">
+      <b>Genealo</b><br><br>
+      Build and visualize family trees.<br><br>
+      <img src="https://img.shields.io/badge/status-in%20progress-0a0a0a?style=flat-square&labelColor=0a0a0a&color=2a2a2a" alt="In progress">
+    </td>
   </tr>
 </table>
+</div>
 
-## Stack
+<h2 align="center">Stack</h2>
 
-<p>
+<div align="center">
   <img src="https://img.shields.io/badge/Astro-0a0a0a?style=flat-square&logo=astro&logoColor=ededea" alt="Astro">
   <img src="https://img.shields.io/badge/Cloudflare_Workers-0a0a0a?style=flat-square&logo=cloudflare&logoColor=ededea" alt="Cloudflare Workers">
   <img src="https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=ededea" alt="TypeScript">
@@ -91,7 +92,7 @@
   <img src="https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=ededea" alt="Python">
   <img src="https://img.shields.io/badge/FastAPI-0a0a0a?style=flat-square&logo=fastapi&logoColor=ededea" alt="FastAPI">
   <img src="https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=ededea" alt="Docker">
-</p>
+</div>
 
 <div align="center">
   <picture>
@@ -100,17 +101,4 @@
   </picture>
 </div>
 
-<div align="center">
-  <a href="https://kn990x.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Website-0a0a0a?style=flat-square&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNy45M2MtMy45NS0uNDktNy0zLjg1LTctNy45MyAwLS42Mi4wOC0xLjIxLjIxLTEuNzlMOSAxNXYxYzAgMS4xLjkgMiAyIDJ2MS45M3ptNi45LTIuNTNjLS4yNi0uODEtMS0xLjQtMS45LTEuNGgtMXYtM2MwLS41NS0uNDUtMS0xLTFoLTZ2LTJoMmMuNTUgMCAxLS40NSAxLTFWN2gyYzEuMSAwIDItLjkgMi0ydi0uNDFjMi45MyAxLjE5IDUgNC4wNiA1IDcuNDEgMCAyLjA4LS44IDMuOTctMi4xIDUuNHoiLz48L3N2Zz4%3D&logoColor=ededea" alt="Website" />
-  </a>
-  <a href="https://x.com/KN990x" target="_blank">
-    <img src="https://img.shields.io/badge/X-0a0a0a?style=flat-square&logo=x&logoColor=ededea" alt="X (Twitter)" />
-  </a>
-  <a href="https://www.youtube.com/@KN990x" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-0a0a0a?style=flat-square&logo=youtube&logoColor=ededea" alt="YouTube" />
-  </a>
-  <a href="https://buymeacoffee.com/kn990x" target="_blank">
-    <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-0a0a0a?style=flat-square&logo=buy-me-a-coffee&logoColor=ededea" alt="Buy Me a Coffee" />
-  </a>
-</div>
+<div align="center"><a href="https://kn990x.dev"><img src="https://img.shields.io/badge/Website-0a0a0a?style=flat-square&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNy45M2MtMy45NS0uNDktNy0zLjg1LTctNy45MyAwLS42Mi4wOC0xLjIxLjIxLTEuNzlMOSAxNXYxYzAgMS4xLjkgMiAyIDJ2MS45M3ptNi45LTIuNTNjLS4yNi0uODEtMS0xLjQtMS45LTEuNGgtMXYtM2MwLS41NS0uNDUtMS0xLTFoLTZ2LTJoMmMuNTUgMCAxLS40NSAxLTFWN2gyYzEuMSAwIDItLjkgMi0ydi0uNDFjMi45MyAxLjE5IDUgNC4wNiA1IDcuNDEgMCAyLjA4LS44IDMuOTctMi4xIDUuNHoiLz48L3N2Zz4%3D&logoColor=ededea" alt="Website"></a> <a href="https://x.com/KN990x"><img src="https://img.shields.io/badge/X-0a0a0a?style=flat-square&logo=x&logoColor=ededea" alt="X"></a> <a href="https://www.youtube.com/@KN990x"><img src="https://img.shields.io/badge/YouTube-0a0a0a?style=flat-square&logo=youtube&logoColor=ededea" alt="YouTube"></a> <a href="https://buymeacoffee.com/kn990x"><img src="https://img.shields.io/badge/Buy_Me_a_Coffee-0a0a0a?style=flat-square&logo=buy-me-a-coffee&logoColor=ededea" alt="Buy Me a Coffee"></a></div>
