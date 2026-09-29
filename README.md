@@ -1,12 +1,12 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img src="assets/banner-light.svg" alt="KN990x — software, automation, internal tools" width="100%">
+    <img src="assets/banner-light.svg" alt="KN990x — independent developer: software, automation, internal tools" width="100%">
   </picture>
 </div>
 
 <p align="center">
-  Custom software development: web applications, process automation and internal tools.<br>
+  Independent developer. Custom software development: web applications, process automation and internal tools.<br>
   Built on standards that last, mostly self-hosted, shipped as products.
 </p>
 
