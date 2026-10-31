@@ -59,6 +59,17 @@
       <img src="https://img.shields.io/badge/status-live-0a0a0a?style=flat-square&labelColor=0a0a0a&color=2a2a2a" alt="Live">
     </td>
   </tr>
+  <tr>
+    <td align="center" width="880" valign="top" colspan="2">
+      <img src="assets/logos/glassys.svg" width="64" height="64" alt="Glassys"><br>
+      <b><a href="https://glassys.dev">Glassys</a></b><br>
+      <sub><a href="https://glassys.dev">glassys.dev</a> · <a href="https://github.com/KN990x/Glassys">source</a></sub><br><br>
+      Self-hosted chat face for the coding agent already running on your machine: systems work on that host from a phone.<br><br>
+      <a href="https://github.com/KN990x/Glassys/stargazers"><img src="https://img.shields.io/github/stars/KN990x/Glassys?style=flat-square&label=stars&labelColor=0a0a0a&color=2a2a2a" alt="Stars"></a>
+      <img src="https://img.shields.io/github/license/KN990x/Glassys?style=flat-square&label=license&labelColor=0a0a0a&color=2a2a2a" alt="License">
+      <img src="https://img.shields.io/badge/status-v0.x-0a0a0a?style=flat-square&labelColor=0a0a0a&color=2a2a2a" alt="v0.x">
+    </td>
+  </tr>
 </table>
 </div>
 
@@ -101,4 +112,4 @@
   </picture>
 </div>
 
-<div align="center"><a href="https://kn990x.dev"><img src="https://img.shields.io/badge/Website-0a0a0a?style=flat-square&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNy45M2MtMy45NS0uNDktNy0zLjg1LTctNy45MyAwLS42Mi4wOC0xLjIxLjIxLTEuNzlMOSAxNXYxYzAgMS4xLjkgMiAyIDJ2MS45M3ptNi45LTIuNTNjLS4yNi0uODEtMS0xLjQtMS45LTEuNGgtMXYtM2MwLS41NS0uNDUtMS0xLTFoLTZ2LTJoMmMuNTUgMCAxLS40NSAxLTFWN2gyYzEuMSAwIDItLjkgMi0ydi0uNDFjMi45MyAxLjE5IDUgNC4wNiA1IDcuNDEgMCAyLjA4LS44IDMuOTctMi4xIDUuNHoiLz48L3N2Zz4%3D&logoColor=ededea" alt="Website"></a> <a href="https://x.com/KN990x"><img src="https://img.shields.io/badge/X-0a0a0a?style=flat-square&logo=x&logoColor=ededea" alt="X"></a> <a href="https://www.youtube.com/@KN990x"><img src="https://img.shields.io/badge/YouTube-0a0a0a?style=flat-square&logo=youtube&logoColor=ededea" alt="YouTube"></a> <a href="https://ko-fi.com/kn990x"><img src="https://img.shields.io/badge/Ko--fi-0a0a0a?style=flat-square&logo=ko-fi&logoColor=ededea" alt="Ko-fi"></a></div>
+<div align="center"><a href="https://kn990x.dev"><img src="https://img.shields.io/badge/Website-0a0a0a?style=flat-square&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNy45M2MtMy45NS0uNDktNy0zLjg1LTctNy45MyAwLS42Mi4wOC0xLjIxLjIxLTEuNzlMOSAxNXYxYzAgMS4xLjkgMiAyIDJ2MS45M3ptNi45LTIuNTNjLS4yNi0uODEtMS0xLjQtMS45LTEuNGgtMXYtM2MwLS41NS0uNDUtMS0xLTFoLTZ2LTJoMmMuNTUgMCAxLS40NSAxLTFWN2gyYzEuMSAwIDItLjkgMi0ydi0uNDFjMi45MyAxLjE5IDUgNC4wNiA1IDcuNDEgMCAyLjA4LS44IDMuOTctMi4xIDUuNHoiLz48L3N2Zz4%3D&logoColor=ededea" alt="Website"></a> <a href="https://x.com/KN990x"><img src="https://img.shields.io/badge/X-0a0a0a?style=flat-square&logo=x&logoColor=ededea" alt="X"></a> <a href="https://ko-fi.com/kn990x"><img src="https://img.shields.io/badge/Ko--fi-0a0a0a?style=flat-square&logo=ko-fi&logoColor=ededea" alt="Ko-fi"></a></div>

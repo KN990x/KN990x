@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" role="img" aria-label="Glassys">
+  <rect width="64" height="64" rx="14" fill="#0a0a0a"/>
+  <rect x="0.5" y="0.5" width="63" height="63" rx="13.5" fill="none" stroke="#262626"/>
+  <g transform="translate(11.6 11.6) scale(0.85)" stroke="#fafafa" stroke-width="3.4" stroke-linecap="round">
+    <path d="M26 8 H19 A11 11 0 0 0 8 19 V26"/>
+    <path d="M22 40 H29 A11 11 0 0 0 40 29 V22"/>
+  </g>
+  <circle cx="32" cy="32" r="3.57" fill="#fafafa"/>
+</svg>
