@@ -44,8 +44,8 @@
   <tr>
     <td align="center" width="440" valign="top">
       <img src="assets/logos/easypages.svg" width="64" height="64" alt="EasyPages"><br>
-      <b><a href="https://github.com/KN990x/EasyPages">EasyPages</a></b><br>
-      <sub><a href="https://github.com/KN990x/EasyPages">source</a></sub><br><br>
+      <b><a href="https://easypages.app">EasyPages</a></b><br>
+      <sub><a href="https://easypages.app">easypages.app</a> · <a href="https://github.com/KN990x/EasyPages">source</a></sub><br><br>
       A manager for Cloudflare Pages projects, deployments and settings.<br><br>
       <a href="https://github.com/KN990x/EasyPages/releases/latest"><img src="https://img.shields.io/github/v/release/KN990x/EasyPages?style=flat-square&label=release&labelColor=0a0a0a&color=2a2a2a" alt="Latest release"></a>
       <a href="https://github.com/KN990x/EasyPages/stargazers"><img src="https://img.shields.io/github/stars/KN990x/EasyPages?style=flat-square&label=stars&labelColor=0a0a0a&color=2a2a2a" alt="Stars"></a>
